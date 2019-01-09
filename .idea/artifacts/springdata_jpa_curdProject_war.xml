@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springdata_jpa_curdProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springdata_jpa_curdProject.war">
+      <element id="artifact" artifact-name="springdata_jpa_curdProject:war exploded" />
+    </root>
+  </artifact>
+</component>
